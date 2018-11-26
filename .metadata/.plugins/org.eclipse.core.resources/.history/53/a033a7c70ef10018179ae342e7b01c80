@@ -1,0 +1,5 @@
+package com.trivia.jimmy_trivia.endpoints;
+
+public class QuestionEndpoint {
+
+}

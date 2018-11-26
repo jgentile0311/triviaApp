@@ -1,0 +1,16 @@
+/*
+ * Question class
+ * Author: Jimmy Gentile
+ * Date: November 25, 2018
+*/
+
+package com.trivia.jimmy_trivia.model;
+
+import java.util.Date;
+import java.util.Objects;
+
+public class Question {
+	
+	
+
+}

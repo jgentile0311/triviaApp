@@ -1,0 +1,21 @@
+/*
+ * TriviaApp class
+ * Author: Jimmy Gentile
+ * Date: November 25, 2018
+*/
+
+package com.trivia.jimmy_trivia;
+
+import java.util.Date; 
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

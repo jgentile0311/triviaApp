@@ -1,0 +1,14 @@
+package com.trivia.jimmy_trivia.model;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class QuestionBuilderTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

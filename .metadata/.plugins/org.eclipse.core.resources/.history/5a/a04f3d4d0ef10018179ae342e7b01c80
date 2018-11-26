@@ -1,0 +1,17 @@
+/*
+ * This is the question builder class
+ * Author: Jimmy Gentile
+ * Date: November 25, 2018
+ */
+
+
+package com.trivia.jimmy_trivia.model;
+
+import java.util.date;
+import java.util.Hashset;
+
+public class QuestionBuilder {
+
+	
+	
+}

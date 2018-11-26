@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="QuestionArrayAccessTest" project="jimmy_trivia" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0">
+    <testcase name="testGetRandomQuestion" classname="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0"/>
+    <testcase name="testGetQuestionListSize" classname="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0"/>
+    <testcase name="getQuestionsBySpecifiedList" classname="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0"/>
+    <testcase name="testGetQuestion" classname="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0"/>
+    <testcase name="testGetQuestionList" classname="com.trivia.jimmy_trivia.model.QuestionArrayAccessTest" time="0.0"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="QuestionBuilderTest" project="jimmy_trivia" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0">
+    <testcase name="testBuildCorrectAnswerFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuild" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildQuestionFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildAnswerAFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildAnswerBFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildAnswerCFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildAnswerDFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildHintFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildLastUpdatedDateFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+    <testcase name="testBuildIdFail" classname="com.trivia.jimmy_trivia.model.QuestionBuilderTest" time="0.0"/>
+  </testsuite>
+</testrun>

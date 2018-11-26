@@ -1,0 +1,12 @@
+/*
+ * QuestionArrayAccess class
+ * Author: Jimmy Gentile
+ * Date: November 25, 2018
+*/
+
+
+package com.trivia.jimmy_trivia.model;
+
+public class QuestionArrayAccess {
+
+}
